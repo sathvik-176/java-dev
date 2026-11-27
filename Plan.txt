@@ -16,3 +16,6 @@ git log -- to check the commit history of the repository
 git diff -- gives us the details of the modified repository before staging
 
 git --no-pager log -- to show the log without opening the pager next time
+
+git rn --cached filename -- used to delete a commited (tracked) file from a repository in git . We must commit after this process
+
