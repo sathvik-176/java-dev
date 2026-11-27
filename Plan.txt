@@ -24,3 +24,5 @@ git branch -M main -- to change the branch to main
 git remote add origin https://github.com/user_id/repository_name.git -- to add the repo to server
 
 git push -u origin main -- pushes the data into github 
+
+git remote remove origin -- to remove the current remote origin
