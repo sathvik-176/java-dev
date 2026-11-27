@@ -1,1 +1,16 @@
-My name is Sathvik, I am learning Java 
+My name is Sathvik, I am learning Java SpringBoot course by Telusuko on Udemy. 
+Today is my day 1 and I am learning about GIT
+
+Few Important Git commands are -
+
+Step 1 -> git init -- to initialize the empty git repository
+Step 2 -> git add filename or .(multiple files) -- to add the following files to the staging area and getting ready before commit.
+Step 3 -> git commit -m "message" -- to commit the changes to the local repository 
+
+git status -- used to check the status of the repository
+
+git log -- to check the commit history of the repository
+
+**git commit -a -m "message" -- used to skip the staging part (git add) allows us to commit directly
+
+git diff -- gives us the details of the modified repository before staging
