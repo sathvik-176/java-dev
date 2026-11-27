@@ -19,3 +19,8 @@ git --no-pager log -- to show the log without opening the pager next time
 
 git rn --cached filename -- used to delete a commited (tracked) file from a repository in git . We must commit after this process
 
+git branch -M main -- to change the branch to main
+
+git remote add origin https://github.com/user_id/repository_name.git -- to add the repo to server
+
+git push -u origin main -- pushes the data into github 
