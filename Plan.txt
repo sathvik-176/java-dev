@@ -14,3 +14,5 @@ git log -- to check the commit history of the repository
 **git commit -a -m "message" -- used to skip the staging part (git add) allows us to commit directly
 
 git diff -- gives us the details of the modified repository before staging
+
+git --no-pager log -- to show the log without opening the pager next time
